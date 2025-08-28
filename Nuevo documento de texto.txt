@@ -1,0 +1,9 @@
+git init
+git branch -m master main
+git add .
+git commit -m "Commit Inicial"
+git branch develop
+git checkout develop
+git log
+
+
